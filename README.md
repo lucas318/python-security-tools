@@ -41,3 +41,18 @@ Input:
 
 Output:
 Malicious ❌
+
+
+### 3. Log Analyzer
+
+Analyzes log entries and detects suspicious activity based on keywords.
+
+## Example
+
+Output:
+🚨 ALERT: Failed login attempt  
+🚨 ALERT: Unauthorized access detected  
+
+## Use Case
+
+Useful for identifying suspicious behavior in system logs, similar to basic SOC monitoring.
