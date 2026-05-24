@@ -28,3 +28,16 @@ Moderate ⚠️
 ## Use Case
 
 Useful for improving password security and understanding how strong passwords are evaluated in real systems.
+
+
+### 2. IP Reputation Checker
+
+Checks whether an IP address is flagged as malicious based on a predefined blacklist.
+
+## Example
+
+Input:
+192.168.1.10
+
+Output:
+Malicious ❌
